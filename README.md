@@ -7,11 +7,11 @@ Youtube:
 
 Items used:
 
-- Motorized Lego Banz truck https://shop.lego.com/en-US/product/Mercedes-Benz-Arocs-3245-42043
- - XL Motor
- - Servo Motor
+* Motorized [Lego Banz truck](https://shop.lego.com/en-US/product/Mercedes-Benz-Arocs-3245-42043)
+  * XL Motor
+  * Servo Motor
  
-- Raspberry Pi 3 B+
-- L298N
-- Breadboard
-- jump wires
+* Raspberry Pi 3 B+
+* L298N
+* Breadboard
+* jump wires
